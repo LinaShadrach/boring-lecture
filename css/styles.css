@@ -1,0 +1,17 @@
+.intro{
+  font-family: fantasy;
+  color: #4788bc
+}
+h2.intro {
+  font-weight: bold;
+  color: #12216d;
+}
+
+p.intro {
+  font-size: 21px;
+  line-height: 25px;
+}
+
+img.intro {
+  border: 5px solid #777;
+}
