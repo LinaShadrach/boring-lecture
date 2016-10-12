@@ -6,7 +6,7 @@
 
 ## Description
 
-Set up a webpage using html block and inline elements. Make corrections and additions to webpage. Use github to add, commit, post and clone the project. Add CSS elements
+Set up a webpage using html block and inline elements. Make corrections and additions to webpage. Use github to add, commit, post and clone the project. Add CSS elements.
 
 ## Setup/Installation Requirements
 
@@ -23,3 +23,4 @@ _No known_
 
 1. html
 2. github
+3. CSS
